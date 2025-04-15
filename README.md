@@ -38,6 +38,4 @@ Thus, you have been assigned to design a network for the new building as a key m
 
 11. It is anticipated that any device connected to the network will dynamically receive an IP address from the server room's dedicated DHCP servers.
 
-
-
-![Screenshot (108)](https://github.com/user-attachments/assets/fcd45003-edc1-4ce8-b78c-248e889d801a)
+![Screenshot (108)](https://github.com/user-attachments/assets/4bfd1e86-0532-476a-951b-318fcb286a90)
